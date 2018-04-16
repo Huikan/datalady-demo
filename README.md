@@ -11,7 +11,7 @@ This is a simple demonstration which includes two applications
 - Python 2.7
 
 To make the streaming application worked, since it uses twitter streaming API, you should follow the steps as indicated:
-- twitter application sign in page [https://apps.twitter.com/](sign in page)
+- twitter application sign in page [https://apps.twitter.com/]
 
 Run streaming application with the following options
 ```$bash
