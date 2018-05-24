@@ -1,4 +1,4 @@
-# Datalady Meetup Demo 
+# Spark Streaming Demo
 
 This is a simple demonstration which includes two applications
 - spark streaming application: run in local with 2 cores, max memory=512MB
